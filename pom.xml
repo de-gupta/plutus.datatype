@@ -5,12 +5,12 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>io.github.de-gupta</groupId>
-    <artifactId>plutus.datatypes</artifactId>
+    <artifactId>plutus.datatype</artifactId>
     <version>0.0.1-SNAPSHOT</version>
 
     <name>${project.artifactId}</name>
-    <description>A library for calculating datatypess</description>
-    <url>https://github.com/de-gupta/plutus.datatypes</url>
+    <description>A library for calculating datatype</description>
+    <url>https://github.com/de-gupta/plutus.datatype</url>
 
     <properties>
         <maven.compiler.release>25</maven.compiler.release>
@@ -26,9 +26,9 @@
     </properties>
 
     <scm>
-        <connection>scm:git:git@github.com:de-gupta/plutus.datatypes.git</connection>
-        <developerConnection>scm:git:git@github.com:de-gupta/plutus.datatypes.git</developerConnection>
-        <url>https://github.com/de-gupta/plutus.datatypes</url>
+        <connection>scm:git:git@github.com:de-gupta/plutus.datatype.git</connection>
+        <developerConnection>scm:git:git@github.com:de-gupta/plutus.datatype.git</developerConnection>
+        <url>https://github.com/de-gupta/plutus.datatype</url>
     </scm>
 
     <dependencies>
