@@ -2,5 +2,5 @@ package plutus.datatypes.model;
 
 public interface MarketDataSource
 {
-	Trade nextTrade();
+	Trade take();
 }
