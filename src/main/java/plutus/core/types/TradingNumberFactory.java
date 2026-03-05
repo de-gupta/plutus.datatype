@@ -1,4 +1,4 @@
-package plutus.datatypes.types;
+package plutus.core.types;
 
 public final class TradingNumberFactory
 {

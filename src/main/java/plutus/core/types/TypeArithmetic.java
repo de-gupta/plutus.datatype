@@ -1,4 +1,4 @@
-package plutus.datatypes.types;
+package plutus.core.types;
 
 import de.gupta.commons.utility.math.algebra.ring.DivisionResult;
 

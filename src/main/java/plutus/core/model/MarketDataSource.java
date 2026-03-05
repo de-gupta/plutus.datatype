@@ -1,4 +1,4 @@
-package plutus.datatypes.model;
+package plutus.core.model;
 
 public interface MarketDataSource
 {
